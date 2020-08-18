@@ -4,7 +4,7 @@
 
 目前amazon已经上架了，购买链接:  [JavaScript: The Definitive Guide](https://www.amazon.com/-/zh/JavaScript-Definitive-Most-Used-Programming-Language-dp-1491952024/dp/1491952024/)
 
-![](./book-preview-1600.jpg)
+![](./book-preview-900.jpg)
 
 这是一本非官方翻译的项目；
 
