@@ -4,6 +4,8 @@
 
 目前amazon已经上架了，购买链接:  [JavaScript: The Definitive Guide](https://www.amazon.com/-/zh/JavaScript-Definitive-Most-Used-Programming-Language-dp-1491952024/dp/1491952024/)
 
+![](./book-preview-1600.jpg)
+
 这是一本非官方翻译的项目；
 
 开始于: 2020年8月18日
@@ -15,3 +17,11 @@
 ## 关于
 
 这本书打算每天下班后进行翻译，所以可能效率没有那么的快；欢迎一起翻译。
+
+## 参与翻译工作的人
+
+- 朱安邦
+
+## 版权许可
+
+The MIT License
