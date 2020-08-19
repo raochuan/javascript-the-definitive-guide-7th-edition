@@ -2,7 +2,7 @@
 ## 区块文字
 
 ```html
-<div style="border: 1px solid black;padding:10px">
+<div style="border: 1px solid black; padding:10px; margin: 10px 0">
   <center><h2>JavaScript: Names, Versions, and Modes<h2></center>
   <p>xxxx</p>
   <p>xxxx</p>
@@ -15,7 +15,7 @@
 
 
 ```html
-<div style="border: 1px solid black;padding:10px">
+<div style="border: 1px solid black; padding:10px; margin: 10px 0">
   <img src='./img/1-1.png'/>
 </div>
 ```
