@@ -12,7 +12,24 @@
 
 翻译人: 朱安邦
 
-现在Github上翻译出来，后续会整理成册放在我的个人网站 [阿西河前端教程](https://www.axihe.com/books/js-qwzn/home.html) 上
+我的个人网站，与当前 Github 翻译的内容同步，本书内容整理后的同步地址 [JavaScript权威指南(第7版) 在线阅读](https://www.axihe.com/books/js-qwzn/home.html) 
+
+> 欢迎 Star ，欢迎阅读本书的翻译，欢迎提各种一件，感谢！！！
+
+> 欢迎 Star ，欢迎阅读本书的翻译，欢迎提各种一件，感谢！！！
+
+> 欢迎 Star ，欢迎阅读本书的翻译，欢迎提各种一件，感谢！！！
+
+## 已完成目录
+
+- [第 1 章.JavaScript概述](./010.JavaScript概述.md)
+- [第 2 章.语法结构](./020.语法结构.md)
+
+## 交流群
+
+**为了大家更好的交流，我创建了一个微信群**，用来讨论本书翻译的内容，可以扫一扫下面的二维码加入群，如果加不了，可以加我的私人微信，我把你拉进来，我的私人微信是: `yaolushan`。
+
+![](https://a.axihe.com/books/js-qwzn/club.png)
 
 ## 翻译主旨
 
